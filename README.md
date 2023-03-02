@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Overview Myself Jato Paul
+Myself Jato Paul
 
 Full stack developer
 
