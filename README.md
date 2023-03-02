@@ -5,10 +5,12 @@
 
 - 🌱 I’m currently learning **Angular, Javascript, C#,.Net framwork**
 
-- 💬 Ask me about **CSS, Angular and anything about Photography, videography & Music.**
+- 💬 Ask me about ** CSS, Angular and  about Photography, videography & Music.**
+
+- 📫 Someof my works **(https://avatar2officaljp.web.app/)**
 
 - 📫 How to reach me **jatopaul98@gmail.com**
-
+- 
 - ⚡ Fun fact **I enjoy watching series......**
 
 <h3 align="left">Connect with me:</h3>
